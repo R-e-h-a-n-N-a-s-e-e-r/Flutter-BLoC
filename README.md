@@ -1,16 +1,11 @@
-# flutter_bloc
+# Flutter BLoC
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Counter App using BLoc
 
-A few resources to get you started if this is your first Flutter project:
+ This follows the solid principle of bloc keeping logic separate from UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <img width="352" height="624" alt="Flutter_practice_11 1" src="https://github.com/user-attachments/assets/eb9f2439-0fe7-4e59-8cbf-f489dbf387a7" />
